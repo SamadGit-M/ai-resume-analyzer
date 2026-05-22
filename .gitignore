@@ -21,7 +21,6 @@ backend/data/**
 .vscode/
 .idea/
 *.swp
-.claude/
 
 # Frontend
 node_modules/
