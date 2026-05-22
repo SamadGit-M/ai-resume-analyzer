@@ -2,7 +2,7 @@
 Small full-stack app 
 You paste a job description, drop in one or more resumes (PDF / DOCX / TXT), and it ranks the candidates with section-wise scores and short feedback for each one.
 
-
+Clone ---   git clone https://github.com/SamadGit-M/ai-resume-analyzer.git
 ## Setup
 You'll need Python 3.11+, Node 20+, and a Google AI Studio API key.
 Get a key here: https://aistudio.google.com/apikey(Free tier for testing purpose)
