@@ -1,0 +1,30 @@
+Bob Martinez
+Email: bob.martinez@example.com | Phone: +1-555-0199 | Location: Austin, TX
+
+SUMMARY
+Frontend-leaning full-stack developer with 3 years of experience building React/Next.js
+web applications. Comfortable with Node.js backends; some exposure to Python.
+
+SKILLS
+JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Tailwind CSS,
+HTML, CSS, Git, REST APIs, basic Python
+
+EXPERIENCE
+Full-Stack Developer — Brightside Studio (2022 - Present)
+Built customer-facing React/Next.js apps for SaaS clients.
+Designed Node.js + Express APIs backed by MongoDB.
+Integrated Stripe and SendGrid.
+
+Junior Frontend Engineer — Webwave (2021 - 2022)
+Built UI components in React + Tailwind.
+Worked closely with designers to ship pixel-perfect pages.
+
+EDUCATION
+B.Sc in Information Technology — University of Texas at Austin (2017 - 2021)
+
+PROJECTS
+Markdown Notes — A React + Firebase notes app with offline support.
+Tech: React, Firebase, Tailwind.
+
+CERTIFICATIONS
+Meta Front-End Developer Certificate (2022)

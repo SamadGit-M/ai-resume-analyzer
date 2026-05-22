@@ -1,0 +1,53 @@
+{
+  "job_id": 1,
+  "job_title": "Senior Backend Engineer (Python / AI)",
+  "ranked": [
+    {
+      "resume_id": 1,
+      "filename": "resume_alice.txt",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "total_score": 84.7,
+      "skills_score": 91.5,
+      "experience_score": 82.3,
+      "education_score": 70.0,
+      "matched_skills": ["Python", "FastAPI", "PostgreSQL", "REST API design", "Git", "ChromaDB", "Docker", "AWS"],
+      "missing_skills": ["Kubernetes"],
+      "feedback": {
+        "strengths": [
+          "5+ years of Python and FastAPI experience aligns with the role's core requirements.",
+          "Shipped an LLM-driven document analysis platform using ChromaDB — direct match for the vector search ask.",
+          "Hands-on AWS experience plus AWS Solutions Architect certification."
+        ],
+        "improvements": [
+          "Add Kubernetes experience or call out related container orchestration work.",
+          "Quantify scale (req/s, dataset sizes) for the Acme AI projects.",
+          "Mention frontend collaboration in more detail since the role calls for cross-functional work."
+        ]
+      }
+    },
+    {
+      "resume_id": 2,
+      "filename": "resume_bob.txt",
+      "name": "Bob Martinez",
+      "email": "bob.martinez@example.com",
+      "total_score": 42.1,
+      "skills_score": 35.0,
+      "experience_score": 48.0,
+      "education_score": 60.0,
+      "matched_skills": ["REST APIs", "Git"],
+      "missing_skills": ["Python", "FastAPI", "PostgreSQL", "ChromaDB", "Docker", "AWS"],
+      "feedback": {
+        "strengths": [
+          "Strong frontend/full-stack background; comfortable with API integration.",
+          "Bachelor's in IT meets the education requirement."
+        ],
+        "improvements": [
+          "Build hands-on Python + FastAPI experience — currently only listed as 'basic Python'.",
+          "Add exposure to vector databases (ChromaDB / Pinecone) — central to this role.",
+          "Pick up Docker and cloud (AWS/GCP) basics to strengthen backend fit."
+        ]
+      }
+    }
+  ]
+}

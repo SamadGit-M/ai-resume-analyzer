@@ -1,0 +1,30 @@
+Job Title: Senior Backend Engineer (Python / AI)
+
+About the role:
+We are looking for a Senior Backend Engineer to design and build the
+APIs and AI services that power our resume-analysis product.
+
+Responsibilities:
+- Design and build scalable REST APIs using Python and FastAPI
+- Integrate large language models and embedding APIs (OpenAI / Gemini)
+- Implement vector search using ChromaDB, pgvector, or similar
+- Optimize performance with caching strategies
+- Write clean, tested, well-documented code
+- Collaborate with frontend engineers and ML researchers
+
+Required Skills:
+- Python (3+ years)
+- FastAPI or Flask
+- PostgreSQL or SQLite
+- REST API design
+- Git and code review workflows
+- Working knowledge of LLMs and prompt engineering
+
+Nice to have:
+- ChromaDB / Pinecone / Weaviate experience
+- Docker and Kubernetes
+- AWS or GCP
+- React / TypeScript (frontend basics)
+
+Education Requirements:
+- Bachelor's degree in Computer Science, Engineering, or related field

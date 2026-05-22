@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.Python
+
+# Env files
+.env
+.env.local
+*.env
+
+# Data / runtime
+backend/data/
+backend/data/**
+
+# IDE / tooling
+.vscode/
+.idea/
+*.swp
+.claude/
+
+# Frontend
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# OS
+.DS_Store
+Thumbs.db

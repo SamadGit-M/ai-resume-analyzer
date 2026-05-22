@@ -1,0 +1,33 @@
+Alice Johnson
+Email: alice.johnson@example.com  | Phone: +1-555-0102 | Location: San Francisco, CA
+LinkedIn: linkedin.com/in/alicejohnson | GitHub: github.com/alicejdev
+
+SUMMARY
+Backend engineer with 5+ years of experience building Python APIs and AI-powered
+services. Recently shipped an LLM-driven document analysis platform using FastAPI,
+ChromaDB and OpenAI/Gemini APIs.
+
+SKILLS
+Python, FastAPI, Flask, PostgreSQL, SQLite, Redis, ChromaDB, OpenAI API, Gemini API,
+Docker, AWS, Git, REST API design, Prompt Engineering, Vector Search, LangChain
+
+EXPERIENCE
+Senior Backend Engineer — Acme AI (2022 - Present)
+Built FastAPI services that index and search 1M+ documents using ChromaDB.
+Designed prompt-engineering pipelines for GPT-4 and Gemini 1.5 Pro.
+Reduced response time 40% via caching and async batching.
+
+Backend Engineer — DataCloud Inc (2020 - 2022)
+Built REST APIs in Python/Flask serving 5k req/s.
+Migrated DB workloads from MySQL to PostgreSQL.
+Mentored two junior engineers.
+
+EDUCATION
+B.Tech in Computer Science — IIT Bombay (2016 - 2020)
+
+PROJECTS
+Resume Insight Bot — A FastAPI + ChromaDB tool that ranks resumes against JDs.
+Tech: Python, FastAPI, ChromaDB, OpenAI, React.
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate (2023)
